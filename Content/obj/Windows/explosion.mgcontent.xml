@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/miran/source/repos/LunarLander/LunarLander/Content/explosion.wav</SourceFile>
+  <SourceTime>2022-11-09T22:32:58.2606125-05:00</SourceTime>
+  <DestFile>C:/Users/miran/source/repos/LunarLander/LunarLander/Content/bin/Windows/explosion.xnb</DestFile>
+  <DestTime>2022-11-23T13:22:18.5815144-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
